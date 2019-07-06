@@ -7,6 +7,6 @@ Imię i nazwisko powinny znajdować się w jednej linii, w drugiej powinien się
 public class Main6 {
 	public static void main(String[] args){
 		System.out.println("Andrzej Calka");
-		System.out.println("GitHub login");
+		System.out.println("ac189223");
 	}
 }
